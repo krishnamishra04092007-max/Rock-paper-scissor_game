@@ -9,7 +9,7 @@ Scores are tracked for both you and the computer
 
 Live Demo
 
-[Add your GitHub Pages link here after deploying]
+ https://krishnamishra04092007-max.github.io/Rock-paper-scissor_game/
 
 📁 Project Structure
 rock-paper-scissors/
